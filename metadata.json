@@ -1,0 +1,8 @@
+{
+	"name": "save-pets-lore",
+	"author": "dukioooo",
+	"description": "",
+	"version": "0.0.1",
+	"entry": "index.js",
+	"requires": []
+}
