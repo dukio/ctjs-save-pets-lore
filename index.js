@@ -1,3 +1,5 @@
+import { isSkyblock } from 'dukioooo'
+
 // prettier-ignore
 const petsSlots = [
 	10,11,12,13,14,15,16,
@@ -8,6 +10,10 @@ const petsSlots = [
 let lastInventory = null
 
 register('guiRender', function () {
+	if (!isSkyblock()) {
+		return
+	}
+
 	const inventory = Player.getOpenedInventory()
 
 	// Checking if it's a /pets window
