@@ -18,11 +18,17 @@
 	"16": "§5§o§7players within §a20 §7blocks",
 	"17": "§5§o§8Doesn't stack",
 	"18": "§5§o",
-	"19": "§5§o§6Held Item: §fAll Skills Exp Boost",
-	"20": "§5§o§7§7Gives +§a10% §7pet exp",
-	"21": "§5§o§7for all skills.",
-	"22": "§5§o",
-	"23": "§5§o§b§lMAX LEVEL",
+	"19": "§5§o§6Parrot Feather Infusion",
+	"20": "§5§o§7§7When summoned or in your pets",
+	"21": "§5§o§7menu, boost the duration of",
+	"22": "§5§o§7consumed §cGod Potions §7by",
+	"23": "§5§o§7§a20%",
 	"24": "§5§o",
-	"25": "§5§o§7§eClick to summon"
+	"25": "§5§o§6Held Item: §fAll Skills Exp Boost",
+	"26": "§5§o§7§7Gives +§a10% §7pet exp",
+	"27": "§5§o§7for all skills.",
+	"28": "§5§o",
+	"29": "§5§o§b§lMAX LEVEL",
+	"30": "§5§o",
+	"31": "§5§o§7§eClick to summon"
 }
