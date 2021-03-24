@@ -1,6 +1,6 @@
 {
 	"0": "§o§7[Lvl 97] §6Ender Dragon ✦§r",
-	"1": "§5§o§8Combat Pet, Neon Blue Skin",
+	"1": "§5§o§8Combat Pet, Neon Purple Skin",
 	"2": "§5§o",
 	"3": "§5§o§7Strength: §a+48",
 	"4": "§5§o§7Crit Chance: §a+9%",
@@ -18,12 +18,12 @@
 	"16": "§5§o§6Superior",
 	"17": "§5§o§7§7Increases most stats by §a9.7%",
 	"18": "§5§o",
-	"19": "§5§o§6Held Item: §fAll Skills Exp Super-Boost",
-	"20": "§5§o§7§7Gives +§a20% §7pet exp",
-	"21": "§5§o§7for all skills.",
+	"19": "§5§o§6Held Item: §5Combat Exp Boost",
+	"20": "§5§o§7§7Gives +§a50% §7pet exp",
+	"21": "§5§o§7for Combat.",
 	"22": "§5§o",
-	"23": "§5§o§7Progress to Level 98: §e65.2%",
-	"24": "§5§o§2--------------§f------ §e1,054,844.3§6/§e1.6M",
+	"23": "§5§o§7Progress to Level 98: §e90%",
+	"24": "§5§o§2------------------§f-- §e1,454,794.5§6/§e1.6M",
 	"25": "§5§o",
-	"26": "§5§o§7§eClick to summon"
+	"26": "§5§o§7§cClick to despawn "
 }
