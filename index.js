@@ -1,4 +1,4 @@
-import { isSkyblock } from 'dukioooo'
+import { isSkyblock } from 'dukioooo/utils'
 
 // prettier-ignore
 const petsSlots = [
